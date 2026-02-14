@@ -467,7 +467,7 @@ body {
 }
 .box__letter .letter__border{
     position: absolute;
-    width: 65vw;
+    width: 100vw;
     height: 450px;
     background-color: var(--color-white);
     border-radius: 27px;
@@ -848,3 +848,4 @@ h1 {
 
 
 }
+
