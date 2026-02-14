@@ -467,7 +467,7 @@ body {
 }
 .box__letter .letter__border{
     position: absolute;
-    width: 67vw;
+    width: 70vw;
     height: 450px;
     background-color: var(--color-white);
     border-radius: 27px;
@@ -594,14 +594,14 @@ body {
     animation: opacityHeart 1s 1s forwards;
 }
 .content__letter .right .text__letter{
-    margin-top: 55px;
+    margin-top: 50px;
     padding: 20px 15px 10px 15px;
     font-family: 'Dancing Script', cursive;
     font-size: 1.3rem;
 }
 .content__letter .right #mewmew{
     position: absolute;
-    bottom: 0;
+    margin-bottom: 15%;
     right: 0;
     opacity: 0;
 }
@@ -848,6 +848,7 @@ h1 {
 
 
 }
+
 
 
 
